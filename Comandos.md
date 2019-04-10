@@ -18,3 +18,5 @@ Listar características de los archivos de un directorio `ls -la`
 ## MKDIR
 
 Crear un directorio `mkdir temp`
+
+Para más **información** consultar [here](https://tidbits.com/2002/11/25/a-mac-users-guide-to-the-unix-command-line-part-1/)
